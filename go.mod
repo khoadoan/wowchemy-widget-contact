@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-contact
+module github.com/khoadoan/wowchemy-widget-contact
 
 go 1.15
